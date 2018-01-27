@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="type_text">Type text</string>
+    <string name="translate">Translate</string>
+    <string name="chooseLanguage">Choose language</string>
+    <string name="translation">Translation</string>
+
+    <string name="fail_network">Check your network</string>
+    <string name="fail_translate">Error Translation Response</string>
+    <string name="fail_language">Error Language Response</string>
+</resources>
